@@ -6,7 +6,6 @@
   <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="pedro-c" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg)">
 
 </div>
 
