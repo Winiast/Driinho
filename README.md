@@ -9,7 +9,7 @@
   <img align="center" alt="pedro-c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
 </div>
 
-<div>
+<div style="display: flex;">
   <a href="https://github.com/Driinhot">
   <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=Driinho&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Driinho&layout=compact&langs_count=7&theme=dark"/>
