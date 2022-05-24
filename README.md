@@ -1,4 +1,4 @@
-<h2>Me chamo Pedro Henrique, tenho 18 anos e atualmnente estudo na IFPR o curso de Analise e Desenvolvimento de Sistemas</h2>
+<h2>Me chamo Pedro Henrique, tenho 18 anos e atualmente estudo na IFPR o curso de Analise e Desenvolvimento de Sistemas</h2>
 
 <h3><strong>Linguagens conhecidas</strong></h3>
 
