@@ -14,3 +14,5 @@
   <img align="center" alt="pedro-java" height="50" width="60" src="https://github.com/Driinho/devicon/blob/master/icons/java/java-original.svg" >
 </div>
  
+  
+  ![Snake animation](https://github.com/Driinho/Driinho/blob/output/github-contribution-grid-snake.svg)
